@@ -3,6 +3,8 @@
 # USER INPUT                                   
 #
 
+
+
 WORKING_DIRECTORY <- "/Users/maksim/Dropbox (Windward)/workspaceR/"
 DATA_DIRECTORY <- "/Users/maksim/Dropbox (Windward)/ResearchLayers/Military/"
 FUNCTIONS_DIRECTORY <- "/Users/maksim/Dropbox (Windward)/workspaceR/R/fun/"
@@ -25,7 +27,7 @@ STOP_DURATION_MIN <- 1
 
 
 
-
+#sfffs
 
 # Blip classifiers
 blipInDockClass <- c(speed = 0.3, locDist = 15, headDist = 2,
